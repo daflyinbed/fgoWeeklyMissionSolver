@@ -1,262 +1,22 @@
 Problem:    
-Rows:       143
+Rows:       5
 Columns:    170 (170 integer, 0 binary)
-Non-zeros:  2392
+Non-zeros:  325
 Status:     INTEGER OPTIMAL
-Objective:  57 (MINimum)
+Objective:  29 (MINimum)
 
    No.   Row name        Activity     Lower bound   Upper bound
 ------ ------------    ------------- ------------- -------------
-     1 monster_『人』之力
-                                  30             0               
-     2 monster_死灵
-                                  30             0               
-     3 monster_魔性
-                                  24             0               
-     4 monster_剑阶
-                                  14             0               
-     5 monster_骷髅系
-                                  24             0               
-     6 monster_敌人
-                                  60             0               
-     7 monster_枪阶
-                                   6             0               
-     8 monster_弓阶
-                                  10             0               
-     9 monster_『地』之力
-                                  30             0               
-    10 monster_杀阶
-                                   0             0               
-    11 monster_龙牙兵系
-                                   0             0               
-    12 monster_男性
-                                   6             0               
-    13 monster_人型
-                                   6             0               
-    14 monster_人类
-                                   6             0               
-    15 monster_士兵系
-                                   0             0               
-    16 monster_龙                30             0               
-    17 monster_骑阶
-                                  30             0               
-    18 monster_双足飞龙系
-                                  30             0               
-    19 monster_僵尸系
-                                   6             0               
-    20 monster_猛兽
-                                   0             0               
-    21 monster_犬型
-                                   0             0               
-    22 monster_兽人系
-                                   0             0               
-    23 monster_罗马
-                                   0             0               
-    24 monster_『天』之力
-                                   0             0               
-    25 monster_鬼魂系
-                                   0             0               
-    26 monster_狂阶
-                                   0             0               
-    27 monster_魔偶系
-                                   0             0               
-    28 monster_奇美拉系
-                                   0             0               
-    29 monster_女性
-                                   0             0               
-    30 monster_术阶
-                                   0             0               
-    31 monster_蛇女系
-                                   0             0               
-    32 monster_希腊神话系男性
-                                   0             0               
-    33 monster_半人马系
-                                   0             0               
-    34 monster_寄居蟹系
-                                   0             0               
-    35 monster_亚马逊系
-                                   0             0               
-    36 monster_人偶系
-                                   0             0               
-    37 monster_人工生命体
-                                   0             0               
-    38 monster_人工生命体系
-                                   0             0               
-    39 monster_书页系
-                                   0             0               
-    40 monster_混沌机械兵系
-                                   0             0               
-    41 monster_机械化步兵系
-                                   0             0               
-    42 monster_凯尔特士兵系
-                                   0             0               
-    43 monster_噬魂者系
-                                   0             0               
-    44 monster_恶魔
-                                   0             0               
-    45 monster_凝视者系
-                                   0             0               
-    46 monster_双角兽系
-                                   0             0               
-    47 monster_超巨大
-                                   0             0               
-    48 monster_守护者系
-                                   0             0               
-    49 monster_神性
-                                   0             0               
-    50 monster_斯芬克斯系
-                                   0             0               
-    51 monster_伊夫利塔系
-                                   0             0               
-    52 monster_失心者系
-                                   0             0               
-    53 monster_骑士系
-                                   0             0               
-    54 monster_哈桑系
-                                   0             0               
-    55 monster_自动防卫装置系
-                                   0             0               
-    56 monster_穆修胡休系
-                                   0             0               
-    57 monster_海魔系
-                                   0             0               
-    58 monster_乌利迪姆系
-                                   0             0               
-    59 monster_乌伽尔系
-                                   0             0               
-    60 monster_巨大鬼魂系
-                                   0             0               
-    61 monster_乌利迪姆
-                                   0             0               
-    62 monster_乌伽尔
-                                   0             0               
-    63 monster_魔猪系
-                                   0             0               
-    64 monster_巨大魔猪系
-                                   0             0               
-    65 monster_穆修胡休
-                                   0             0               
-    66 monster_巨龙系
-                                   0             0               
-    67 monster_『恶』属性
-                                   0             0               
-    68 monster_小混混系
-                                   0             0               
-    69 monster_雀蜂系
-                                   0             0               
-    70 monster_王                 0             0               
-    71 monster_流氓系
-                                   0             0               
-    72 monster_恶魔系
-                                   0             0               
-    73 monster_飞龙系
-                                   0             0               
-    74 monster_女海盗系
-                                   0             0               
-    75 monster_酷吏系
-                                   0             0               
-    76 monster_许德拉系
-                                   0             0               
-    77 monster_亚马逊人系
-                                   0             0               
-    78 monster_黑武者系
-                                   0             0               
-    79 monster_祟鬼系
-                                   0             0               
-    80 monster_秽神系
-                                   0             0               
-    81 monster_灰狼系
-                                   0             0               
-    82 monster_食尸鬼系
-                                   0             0               
-    83 monster_夏塔克鸟系
-                                   0             0               
-    84 monster_雅嘎系
-                                   0             0               
-    85 monster_杀戮猎兵系
-                                   0             0               
-    86 monster_巨人系
-                                   0             0               
-    87 monster_瓦尔基里系
-                                   0             0               
-    88 monster_坦克系
-                                   0             0               
-    89 monster_近卫兵系
-                                   0             0               
-    90 boss_『地』之力
-                                   4             0               
-    91 boss_女性                 2             0               
-    92 boss_人型                 8             0               
-    93 boss_神性                 2             0               
-    94 boss_骑乘                 2             0               
-    95 boss_骑阶                 2             0               
-    96 boss_『混沌』属性
-                                   4             0               
-    97 boss_『善』属性
-                                   4             0               
-    98 boss_从者数量
-                                   8             0               
-    99 boss_『人』之力
-                                   4             0               
-   100 boss_男性                 6             0               
-   101 boss_所爱之人
-                                   2             0               
-   102 boss_枪阶                 2             0               
-   103 boss_杀阶                 2             0               
-   104 boss_和风                 2             0               
-   105 boss_『秩序』属性
-                                   4             0               
-   106 boss_『恶』属性
-                                   2             0               
-   107 boss_王                    0             0               
-   108 boss_龙                    0             0               
-   109 boss_剑阶                 0             0               
-   110 boss_呆毛脸
-                                   0             0               
-   111 boss_幸运A+以上
-                                   0             0               
-   112 boss_狂阶                 2             0               
-   113 boss_『狂』属性
-                                   2             0               
-   114 boss_术阶                 0             0               
-   115 boss_裁阶                 0             0               
-   116 boss_罗马                 0             0               
-   117 boss_『中立』属性
-                                   0             0               
-   118 boss_『中庸』属性
-                                   0             0               
-   119 boss_『星』之力
-                                   0             0               
-   120 boss_希腊神话系男性
-                                   0             0               
-   121 boss_『天』之力
-                                   0             0               
-   122 boss_太阳                 0             0               
-   123 boss_弓阶                 0             0               
-   124 boss_猛兽                 0             0               
-   125 boss_仇阶                 0             0               
-   126 boss_犬型                 0             0               
-   127 boss_魔性                 0             0               
-   128 area_燃烧                 4             0               
-   129 area_都市                 7             0               
-   130 area_阳光                 3             0               
-   131 area_山丘                 0             0               
-   132 area_森林                 2             0               
-   133 area_城池                 0             0               
-   134 area_荒野                 0             0               
-   135 area_山                    0             0               
-   136 area_水边                 0             0               
-   137 area_沙滩·沙漠
-                                   0             0               
-   138 area_神殿                 0             0               
-   139 area_岩山                 0             0               
-   140 area_草原                 0             0               
-   141 boss_从者数量,
-                                   8             8               
-   142 monster_剑阶,monster_弓阶,monster_枪阶,
+     1 boss_从者数量,
+                                   9             9               
+     2 boss_『混沌』属性,
+                                   5             3               
+     3 boss_『善』属性,
+                                   5             3               
+     4 monster_敌人,
                                   30            30               
-   143 monster_骑阶,monster_术阶,monster_杀阶,monster_狂阶,
-                                  30            30               
+     5 monster_魔性,
+                                  30            15               
 
    No. Column name       Activity     Lower bound   Upper bound
 ------ ------------    ------------- ------------- -------------
@@ -269,19 +29,19 @@ Objective:  57 (MINimum)
      4 未确认坐标X-D
                     *              0             0               
      5 未确认坐标X-E
-                    *              2             0               
+                    *              1             0               
      6 未确认坐标X-F
-                    *              2             0               
+                    *              4             0               
      7 未确认坐标X-G
                     *              0             0               
      8 变动坐标点0号
                     *              0             0               
      9 栋雷米    *              0             0               
     10 沃库勒尔 *              0             0               
-    11 拉沙里泰 *              3             0               
+    11 拉沙里泰 *              0             0               
     12 汝拉       *              0             0               
     13 里昂       *              0             0               
-    14 蒂耶尔    *              2             0               
+    14 蒂耶尔    *              0             0               
     15 奥尔良    *              0             0               
     16 巴黎       *              0             0               
     17 马赛       *              0             0               
@@ -483,8 +243,8 @@ Objective:  57 (MINimum)
 
 Integer feasibility conditions:
 
-KKT.PE: max.abs.err = 0.00e+00 on row 0
-        max.rel.err = 0.00e+00 on row 0
+KKT.PE: max.abs.err = 3.55e-15 on row 5
+        max.rel.err = 8.07e-17 on row 2
         High quality
 
 KKT.PB: max.abs.err = 0.00e+00 on row 0
